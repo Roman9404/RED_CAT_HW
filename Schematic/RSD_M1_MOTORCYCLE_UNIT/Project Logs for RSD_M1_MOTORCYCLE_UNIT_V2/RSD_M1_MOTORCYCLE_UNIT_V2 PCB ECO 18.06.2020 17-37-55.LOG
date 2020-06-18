@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=NetDA2M_1 Pin=L1M-1
+Removed Pin From Net: NetName=3.3V Pin=L1M-2
+Removed Member From Class: ClassName=RSD_M1_MOTORCYCLE_UNIT_V2 Member=L1M
+Change Component Footprint: Designator=C1M Old Footprint=CAP0805 New Footprint=tantal_case_B
+Change Component Footprint: Designator=C10M Old Footprint=tantal_case_A New Footprint=tantal_case_B
+Change Component Comment : Designator=C1M Old Comment=Capacitor New Comment=100 uf
+Change Component Comment : Designator=C10M Old Comment=Capacitor_Polar New Comment=100 uf
+Change Component Designator: OldDesignator=+ NewDesignator=X11M
+Change Component Designator: OldDesignator=- NewDesignator=X12M
+Change Component Designator: OldDesignator=BTN NewDesignator=X2M
+Change Component Designator: OldDesignator=G+ NewDesignator=X7M
+Change Component Designator: OldDesignator=G- NewDesignator=X8M
+Change Component Designator: OldDesignator=L+ NewDesignator=X3M
+Change Component Designator: OldDesignator=L- NewDesignator=X4M
+Change Component Designator: OldDesignator=R+ NewDesignator=X5M
+Change Component Designator: OldDesignator=R- NewDesignator=X6M
+Change Component Designator: OldDesignator=S+ NewDesignator=X9M
+Change Component Designator: OldDesignator=S- NewDesignator=X10M
+Change component parameters: Designator = "C1M"; Footprint = "tantal_case_B"; UniqueID = "\LUJFAFXO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "T491B107M006AT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10M"; Footprint = "tantal_case_B"; UniqueID = "\ISKGQFVB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "T491B107M006AT"; VariantName = "[No Variations]"
+Added Component: Designator=C12M(CAP0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Added Component: Designator=L1(LQH3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PN"; Value = "LQH3NPN220MMEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 uH LQH3N"; VariantName = "[No Variations]"
+Added Component: Designator=X1M(SWDIO)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2"; Value = "SWDIO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3"; Value = "SWCLK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4"; Value = "GND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C12M-1
+Added Pin To Net: NetName=GND Pin=C12M-2
+Added Pin To Net: NetName=NetDA2M_1 Pin=L1-1
+Added Pin To Net: NetName=3.3V Pin=L1-2
+Added Pin To Net: NetName=3.3V Pin=X1M-1
+Added Pin To Net: NetName=SWDIO Pin=X1M-2
+Added Pin To Net: NetName=SWCLK Pin=X1M-3
+Added Pin To Net: NetName=GND Pin=X1M-4
+Added Member To Class: ClassName=RSD_M1_MOTORCYCLE_UNIT_V2 Member=Component C12M Capacitor
+Added Member To Class: ClassName=RSD_M1_MOTORCYCLE_UNIT_V2 Member=Component L1 coil
+Added Member To Class: ClassName=RSD_M1_MOTORCYCLE_UNIT_V2 Member=Component X1M SWDIO
