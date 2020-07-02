@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=-1
+Removed Pin From Net: NetName=NetVD2M_1 Pin=VD2M-1
+Removed Pin From Net: NetName=NetVD2M_1 Pin=VD3M-2
+Added Component: Designator=L2M(IND0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "BLM18PG181SN1D"; VariantName = "[No Variations]"
+Added Component: Designator=L3M(IND0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "BLM18PG181SN1D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetVD2M_1 Pin=L2M-1
+Added Pin To Net: NetName=GND Pin=L3M-2
+Change Net Name : Old Net Name=NetVD2M_1 New Net Name=NetL2M_1
+Added Pin To Net: NetName=NetL2M_2 Pin=L2M-2
+Added Pin To Net: NetName=NetL2M_2 Pin=VD2M-1
+Added Pin To Net: NetName=NetL2M_2 Pin=VD3M-2
+Added Net: Name=NetL2M_2
+Added Pin To Net: NetName=NetL3M_1 Pin=L3M-1
+Added Pin To Net: NetName=NetL3M_1 Pin=-1
+Added Net: Name=NetL3M_1
+Added Member To Class: ClassName=RSD_M1_MOTORCYCLE_UNIT_V2 Member=Component L2M coil
+Added Member To Class: ClassName=RSD_M1_MOTORCYCLE_UNIT_V2 Member=Component L3M coil

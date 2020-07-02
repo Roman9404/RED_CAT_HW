@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\WORK\My projects\motohelmet\RED_CAT\RED_CAT_HW\Schematic\RSD_M1_HELMET_UNIT_PCB\RSD_M1_HELMET_MOTORCYCLE_UNITS_V2.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

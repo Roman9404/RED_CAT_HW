@@ -1,0 +1,71 @@
+Altium Designer Pick and Place Locations
+D:\WORK\My projects\motohelmet\RED_CAT\RED_CAT_HW\Schematic\RSD_M1_LED_TURN_LEFT_RIGHT\Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\Pick Place for RSD_M1_LED_TURN_LEFT_RIGHT_V2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02.07.20
+Time:       17:00
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Footprint Center-X(mm) Center-Y(mm) Rotation 
+R1         TopLayer    Res0603   8.934        12.986       90       
+R2         TopLayer    Res0603   56.134       24.036       180      
+R3         TopLayer    Res0603   8.934        19.361       270      
+R4         TopLayer    Res0603   52.034       19.886       180      
+R5         TopLayer    Res0603   37.934       20.911       180      
+R6         TopLayer    Res0603   24.084       20.236       270      
+R7         TopLayer    Res0603   24.159       15.436       90       
+VD1        TopLayer    3528_LED  11.909       8.261        334      
+VD2        TopLayer    3528_LED  28.184       5.311        0        
+VD3        TopLayer    3528_LED  43.984       4.961        360      
+VD4        TopLayer    3528_LED  62.459       22.711       329      
+VD5        TopLayer    3528_LED  73.809       14.836       269      
+VD6        TopLayer    3528_LED  60.084       7.061        204,5    
+VD7        TopLayer    3528_LED  12.784       22.811       29       
+VD8        TopLayer    3528_LED  30.184       26.086       0        
+VD9        TopLayer    3528_LED  44.184       25.786       359,5    
+VD10       TopLayer    3528_LED  56.134       19.211       349      
+VD11       TopLayer    3528_LED  63.159       15.186       180      
+VD12       TopLayer    3528_LED  56.134       11.886       204      
+VD13       TopLayer    3528_LED  41.934       20.936       359      
+VD14       TopLayer    3528_LED  48.857       15.811       269      
+VD15       TopLayer    3528_LED  41.734       10.911       180      
+VD16       TopLayer    3528_LED  27.959       21.036       360      
+VD17       TopLayer    3528_LED  34.834       15.936       270      
+VD18       TopLayer    3528_LED  27.709       11.086       180      
+VD19       TopLayer    3528_LED  20.809       16.111       89       
+VD20       TopLayer    3528_LED  13.784       16.161       180      
+VD21       TopLayer    3528_LED  5.784        16.236       180      
+X1         BottomLayer FPC_4_1   14.959       15.436       90       
+R8         TopLayer    Res0603   71.351       42.282       90       
+R9         TopLayer    Res0603   71.326       49.907       270      
+R10        TopLayer    Res0603   24.176       54.432       360      
+R11        TopLayer    Res0603   29.651       51.182       360      
+R12        TopLayer    Res0603   44.651       51.407       360      
+R13        TopLayer    Res0603   56.801       48.782       270      
+R14        TopLayer    Res0603   56.801       44.657       90       
+VD22       TopLayer    3528_LED  69.126       38.382       205,5    
+VD23       TopLayer    3528_LED  52.851       35.432       181      
+VD24       TopLayer    3528_LED  37.076       35.082       181      
+VD25       TopLayer    3528_LED  68.151       52.907       150      
+VD26       TopLayer    3528_LED  50.876       56.157       181      
+VD27       TopLayer    3528_LED  36.876       55.909       181      
+VD28       TopLayer    3528_LED  18.576       52.832       209      
+VD29       TopLayer    3528_LED  7.251        44.932       271      
+VD30       TopLayer    3528_LED  20.876       37.157       334      
+VD31       TopLayer    3528_LED  24.901       49.307       190      
+VD32       TopLayer    3528_LED  17.776       45.332       180      
+VD33       TopLayer    3528_LED  24.901       42.057       336      
+VD34       TopLayer    3528_LED  39.051       51.057       180      
+VD35       TopLayer    3528_LED  32.201       45.907       270      
+VD36       TopLayer    3528_LED  39.276       41.107       360      
+VD37       TopLayer    3528_LED  53.101       51.207       180      
+VD38       TopLayer    3528_LED  46.176       46.032       270      
+VD39       TopLayer    3528_LED  53.276       41.157       360      
+VD40       TopLayer    3528_LED  60.201       46.282       90       
+VD41       TopLayer    3528_LED  67.251       46.332       360      
+VD42       TopLayer    3528_LED  75.276       46.382       1        
+X2         BottomLayer FPC_4_1   66.201       45.532       270      

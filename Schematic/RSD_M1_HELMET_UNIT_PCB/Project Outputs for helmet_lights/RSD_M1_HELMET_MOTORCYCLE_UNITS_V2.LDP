@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\WORK\My projects\motohelmet\RED_CAT\RED_CAT_HW\Schematic\RSD_M1_HELMET_UNIT_PCB\RSD_M1_HELMET_MOTORCYCLE_UNITS_V2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rsd_m1_helmet_motorcycle_units_v2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=rsd_m1_helmet_motorcycle_units_v2-slotholes.txt|DrillLayers=gtl,gbl

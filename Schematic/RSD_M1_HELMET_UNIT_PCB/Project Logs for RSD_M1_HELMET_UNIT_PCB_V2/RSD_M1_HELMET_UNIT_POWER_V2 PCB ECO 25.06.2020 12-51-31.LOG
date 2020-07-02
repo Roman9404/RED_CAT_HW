@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GABARIT Pin=X4-1
+Removed Pin From Net: NetName=RIGHT Pin=X8-2
+Removed Pin From Net: NetName=RIGHT Pin=X9-3
+Added Pin To Net: NetName=RIGHT Pin=X8-2
+Added Pin To Net: NetName=RIGHT Pin=X9-3
+Added Room: Name=RSD_M1_HELMET_UNIT_POWER_STOP_LIGHT_V2
+Added Room: Name=RSD_M1_HELMET_UNIT_POWER_V2

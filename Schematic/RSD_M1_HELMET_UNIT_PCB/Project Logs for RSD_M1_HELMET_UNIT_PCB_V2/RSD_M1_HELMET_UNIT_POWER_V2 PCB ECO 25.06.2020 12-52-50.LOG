@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GABARIT Pin=VT19-3
+Removed Pin From Net: NetName=RIGHT Pin=X8-2
+Removed Pin From Net: NetName=RIGHT Pin=X9-3
+Added Pin To Net: NetName=RIGHT Pin=X8-2
+Added Pin To Net: NetName=RIGHT Pin=X9-3

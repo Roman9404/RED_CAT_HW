@@ -122,6 +122,116 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URPCCAKJ
 
+[Document6]
+DocumentPath=RSD_M1_LED_TURN_LEFT_RIGHT_V2.cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=RSD_M1_LED_TURN_LEFT_RIGHT_V2_DRILL.cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for RSD_M1_LED_TURN_LEFT_RIGHT_V2\RSD_M1_LED_TURN_LEFT_RIGHT_V2.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
