@@ -1,0 +1,7 @@
+Added Component: Designator=C13M(CAP0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C13M-1
+Added Pin To Net: NetName=NetDD1M_7 Pin=C13M-2
+Change Net Name : Old Net Name=NetDD1M_7 New Net Name=NetC13M_2
+Added Member To Class: ClassName=RSD_M1_MOTORCYCLE_UNIT_V2 Member=Component C13M Capacitor

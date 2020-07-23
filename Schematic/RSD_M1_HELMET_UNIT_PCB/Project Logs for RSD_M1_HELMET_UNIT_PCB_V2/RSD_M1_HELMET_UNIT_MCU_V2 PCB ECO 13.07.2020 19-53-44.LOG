@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetDD1_7 Pin=DD1-7
+Removed Pin From Net: NetName=NetDD1_7 Pin=R1-1
+Added Component: Designator=C26(CAP0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GABARIT_2_MCU Pin=DD1-43
+Added Pin To Net: NetName=LED1 Pin=VD5-1
+Added Pin To Net: NetName=LED2 Pin=VD6-1
+Added Pin To Net: NetName=GABARIT_2_MCU Pin=X1-2
+Change Net Name : Old Net Name=NetDD1_7 New Net Name=GABARIT_2_MCU
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-7
+Added Pin To Net: NetName=NetC26_2 Pin=R1-1
+Added Net: Name=NetC26_2
+Added Member To Class: ClassName=RSD_M1_HELMET_UNIT_MCU_V2 Member=Component C26 Capacitor
+Added Member To Class: ClassName=RSD_M1_HELMET_UNIT_MCU_V2 Member=Component DD1 STM32F103C8Tx
+Added Member To Class: ClassName=RSD_M1_HELMET_UNIT_MCU_STOP_LIGHT_V2 Member=Component VD23 LED

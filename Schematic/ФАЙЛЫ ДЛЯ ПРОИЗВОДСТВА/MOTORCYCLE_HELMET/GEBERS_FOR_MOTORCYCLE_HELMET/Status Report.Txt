@@ -1,0 +1,15 @@
+Source PCB Design RSD_M1_HELMET_MOTORCYCLE_UNITS_V2.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RSD_M1_HELMET_UNIT_PCB_V2.PrjPcb]
+   Generated File[RSD_M1_HELMET_MOTORCYCLE_UNITS_V2-RoundHoles.TXT]
+   Generated File[RSD_M1_HELMET_MOTORCYCLE_UNITS_V2-SlotHoles.TXT]
+   Generated File[RSD_M1_HELMET_MOTORCYCLE_UNITS_V2.LDP]
+   Generated File[RSD_M1_HELMET_MOTORCYCLE_UNITS_V2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:09:33 On 13.07.2020
